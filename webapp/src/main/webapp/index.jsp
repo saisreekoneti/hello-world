@@ -7,9 +7,6 @@
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
-    <label for="dob"><b>DOB</b></label>
-    <input type="DOB" placeholder="Enter Dob" name="dob" required>
-
     <label for="email"><b>email</b></label>
     <input type="email" placeholder="Enter email" name="email" required>
 
